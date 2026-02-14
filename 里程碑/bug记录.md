@@ -1,0 +1,1 @@
+1. antDesign中的 color和type:primary 之间的冲突
